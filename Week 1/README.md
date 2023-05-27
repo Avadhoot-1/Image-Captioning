@@ -24,4 +24,12 @@
 | decision tree  |  79.82%  |
 | xgboost  | 83.86% |
 
-<center>
+</center>
+  
+  
+  
+##Submission Result
+---
+**• Submission Accepted** </br>
+**• Assignment 2:** https://drive.google.com/file/d/1aQ62-UioJ5y-aKBXhk5TutvDl7uhv-ZW/view?usp=sharing
+
