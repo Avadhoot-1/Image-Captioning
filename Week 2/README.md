@@ -10,3 +10,8 @@
     * **ReLu** activation function is mostly used except at last fully connected layer where activation function used is **softmax** as we are doing multiclass classification.
 * Model was trained using crossEntropy loss function, Adam optimizer, and 40 epochs. Training accuracy obtained is 77%.
 * Later, some of the images from validation dataset are displayed along woth their predicted labels.
+
+##Submission Result
+---
+**• Submission Accepted** </br>
+**• Assignment 3:** Will be shared soon.
